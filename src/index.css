@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar{
+    display: none;
+}
+.text-bn{
+    font-family: 'Bebas Neue', cursive;
+}
+text-m{
+    font-family: 'Montserrat', sans-serif;
+}
+.text-inter{
+    font-family: 'Inter', sans-serif;
+}
+.selected{
+    border-bottom: 2px solid red;
+}
+#first{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('./Images/Home/bg5.jpg');
+    background-position: center;
+    background-size: cover;
+}
+#second{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('./Images/Home/bg4.jpg');
+    background-position: center;
+    background-size: cover;
+}
+#third{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('./Images/Home/bg1.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+#about{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('./Images/Home/bg5.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
