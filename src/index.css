@@ -5,9 +5,9 @@
 @tailwind components;
 @tailwind utilities;
 
-::-webkit-scrollbar{
+/* ::-webkit-scrollbar{
     display: none;
-}
+} */
 .text-bn{
     font-family: 'Bebas Neue', cursive;
 }
