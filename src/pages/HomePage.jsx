@@ -20,7 +20,7 @@ function HomePage() {
             className="mySwiper"
         >
             <SwiperSlide className='w-screen h-screen relative' id='first'>
-                <section className='absolute bottom-10 left-0 p-2 text-white'>
+                <section className='absolute bottom-[5rem] left-0 p-5 text-white'>
                     <p className=" text-inter uppercase lg:text-2xl my-2">East Legon</p>
                     <h1 className='text-5xl lg:text-8xl text-bn uppercase tracking-widest my-2'>Urban Platinum Hotel</h1>
                     <Link>
@@ -34,7 +34,7 @@ function HomePage() {
                 </section>
             </SwiperSlide>
             <SwiperSlide className='w-screen h-screen relative' id='second'>
-                <section className='absolute bottom-10 left-0 p-2 text-white'>
+                <section className='absolute bottom-[5rem] left-0 p-5 text-white'>
                     <p className=" text-inter uppercase lg:text-2xl my-2">Airport Residential</p>
                     <h1 className='text-5xl lg:text-8xl text-bn uppercase tracking-widest my-2'>Ghana National Museum</h1>
                    <Link>
@@ -48,7 +48,7 @@ function HomePage() {
                 </section>
             </SwiperSlide>
             <SwiperSlide className='w-screen h-screen relative' id='third'>
-                <section className='absolute bottom-10 left-0 text-white p-2'>
+                <section className='absolute bottom-[5rem] left-0 text-white p-5'>
                     <p className=" text-inter uppercase lg:text-2xl my-2">Tema Comm. 25</p>
                     <h1 className='text-5xl lg:text-8xl text-bn uppercase tracking-widest my-2'>ARX Luxury Apartments</h1>
                    <Link>
