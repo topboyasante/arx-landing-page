@@ -14,7 +14,7 @@ function About() {
                 <div className='lg:w-[40%] p-5'>
                     <h1 className='text-bn text-3xl text-center lg:text-left'>Company Profile</h1>
                     <br />
-                    <p className="text-inter">
+                    <p className="text-inter text-center lg:text-left">
                         Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
                         Officia culpa unde suscipit aperiam odit. Ducimus asperiores quas 
                         aspernatur est ea architecto at fugit unde! Pariatur natus reprehenderit 
@@ -34,7 +34,7 @@ function About() {
                 <div className='lg:w-[40%] p-5'>
                     <h1 className='text-bn text-3xl text-center lg:text-left'>General Strengths and Scope of Works</h1>
                     <br />
-                    <p className="text-inter">
+                    <p className="text-inter text-center lg:text-left">
                         Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
                         Officia culpa unde suscipit aperiam odit. Ducimus asperiores quas 
                         aspernatur est ea architecto at fugit unde! Pariatur natus reprehenderit 
