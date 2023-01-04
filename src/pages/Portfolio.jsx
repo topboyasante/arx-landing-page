@@ -22,7 +22,7 @@ function Portfolio() {
             <section className='my-5 grid lg:grid-cols-3 gap-5 place-items-center'>
               {Projects.map((item)=>{
                 return(
-                  <div key={item.id} className=' rounded lg:w-[20vw] bg-[#312d41]'>
+                  <div key={item.id} className=' rounded lg:w-[20vw] bg-[#312d41] hover:scale-105 ease duration-500' data-aos="fade-in">
                     <img src={item.coverImg} alt="house" className=' rounded-t '/>
                     <div className='flex flex-col justify-between items-center p-3'>
                       <h1 className='text-inter uppercase tracking-widest text-lg'>{item.title}</h1>

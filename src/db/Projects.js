@@ -29,4 +29,19 @@ export  const Projects = [
         title:`Apple office hq`,
         coverImg:'https://images.unsplash.com/photo-1531972111231-7482a960e109?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80'
     },
+    {
+        id:6,
+        title:`Modular office spaces`,
+        coverImg:'https://images.unsplash.com/photo-1431576901776-e539bd916ba2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80'
+    },
+    {
+        id:7,
+        title:`Ghana National Aboretum`,
+        coverImg:'https://images.unsplash.com/photo-1451976426598-a7593bd6d0b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'
+    },
+    {
+        id:8,
+        title:`Grand Luxury Hotel`,
+        coverImg:'https://images.unsplash.com/photo-1465804575741-338df8554e02?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80'
+    },
 ]
